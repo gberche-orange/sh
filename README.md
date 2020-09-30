@@ -200,4 +200,4 @@ repo configuration like:
 [sublime-pretty-shell]: https://github.com/aerobounce/Sublime-Pretty-Shell
 [vim-shfmt]: https://github.com/z0mbix/vim-shfmt
 [void]: https://github.com/void-linux/void-packages/blob/HEAD/srcpkgs/shfmt/template
-[pre-commit]: https://pre-commit.com
+[pre-commit]: https://pre-commit.com 
